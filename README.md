@@ -45,21 +45,10 @@ It demonstrates **modern Android development practices** and **clean architectur
 ## 🧰 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/<agachieusebiu>/<Practical-Android-Test-Clean-Architecture-App>.git
    ```
 2. Open the project in **Android Studio (Arctic Fox or newer)**
 3. Sync Gradle and run the app on a device/emulator with **Android 11+**
-
----
-
-## 🧪 Unit Testing
-- Written with **JUnit** and **MockK**
-- Includes non-trivial test cases for API handling, caching logic, and repository layer
-
-Run tests with:
-```bash
-gr adlew test
-```
 
 ---
 
@@ -67,7 +56,7 @@ gr adlew test
 **Eusebiu-Gabriel Agachi**  
 📍 Iași, Romania  
 📧 agachi.eusebiu@gmail.com  
-🔗 [LinkedIn](#)
+🔗 [LinkedIn](#https://www.linkedin.com/in/eusebiu-agachi-1b02a7231/)
 
 ---
 
