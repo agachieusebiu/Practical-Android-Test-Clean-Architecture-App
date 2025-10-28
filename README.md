@@ -56,7 +56,7 @@ It demonstrates **modern Android development practices** and **clean architectur
 **Eusebiu-Gabriel Agachi**  
 📍 Iași, Romania  
 📧 agachi.eusebiu@gmail.com  
-🔗 (#https://www.linkedin.com/in/eusebiu-agachi-1b02a7231/)
+🔗 https://www.linkedin.com/in/eusebiu-agachi-1b02a7231/
 
 ---
 
